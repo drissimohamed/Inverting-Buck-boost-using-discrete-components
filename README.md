@@ -39,3 +39,7 @@ The primary goal of this project is to develop a deep understanding of:
 - Input EMI filter design with Middlebrook criterion verification
 - Inrush current limiting circuit
 - Full closed-loop LTspice simulation with load step transient
+
+
+<img width="1388" height="787" alt="PCB" src="https://github.com/user-attachments/assets/3cb05e14-23f5-4f0b-b078-c4595af1cd20" />
+
